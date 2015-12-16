@@ -1,0 +1,9 @@
+[path]
+scan_path:.
+output_m3u8_path:.
+
+[slice]
+hls_time:10
+
+[process]
+max_process:10
